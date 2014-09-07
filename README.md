@@ -1,4 +1,4 @@
-Jurnal_Of_Elder
+Journal_Of_Elder
 ===============
 
-Jurnal_Of_Elder_for_students 
+Journal_Of_Elder_for_students 
